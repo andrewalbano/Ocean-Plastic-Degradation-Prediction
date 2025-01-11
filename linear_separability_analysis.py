@@ -31,7 +31,7 @@ def screen_data(df, features, target): # data screening function
     
     if subset.empty:
         print(f"Dataset is empty.")
-        return None,
+        return None
 
     return subset
 
