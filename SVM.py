@@ -392,7 +392,6 @@ def on_button_click(root, button_id):
     # root.withdraw()
     # root.quit()
     root.destroy()
-
     
 def choose_kernel():
     # Initialize the Tkinter root window
